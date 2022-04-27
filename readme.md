@@ -7,8 +7,8 @@
 I develop software, build technical communities, create content and love meeting new people!
 
 
-[![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vermakhushboo&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/akash-268/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermakhushboo&layout=compact&theme=calm)](https://github.com/akash-268/github-readme-stats)
+[![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-268&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/akash-268/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-268&layout=compact&theme=calm)](https://github.com/akash-268/github-readme-stats)
 
 
 
