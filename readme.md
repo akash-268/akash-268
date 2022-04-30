@@ -1,4 +1,4 @@
-<!-- ## Hey! I'm Akash Bajpai. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey! I'm Akash Bajpai. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Akash%20Bajpai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-bajpai-b439491b9/)](https://www.linkedin.com/in/akash-bajpai-b439491b9/)
 [![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/akashbajpai268?style=social)](https://twitter.com/akashbajpai268)
@@ -12,7 +12,7 @@ I develop software, build technical communities, create content and love meeting
 
 
 
-<!-- 
+
 **vermakhushboo/vermakhushboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- -->
 
- -->
+
+
